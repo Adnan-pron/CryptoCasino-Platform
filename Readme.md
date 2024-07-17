@@ -4,7 +4,7 @@ Sure! Here's the refined version with an attractive format:
 
 # Crypto Casino Platform
 
-**Contact Us: +1 (123) 456-7890**
+**Contact Us: @codecraftmens**
 
 **Crypto Casino** is a platform where people can play online games such as slot machines, blackjack, roulette, video poker, and more. Our games guarantee absolutely random results using provably fair technology based on strong cryptographic algorithms.
 
@@ -13,7 +13,7 @@ For more information or support, you can reach us at:
 **Telegram**: [@codecraftmens](https://t.me/codecraftmens)  
 **Email**: [codecraftmens@gmail.com](mailto:codecraftmens@gmail.com)
 
-![Crypto Casino](https://github.com/YourUsername/YourRepositoryName/path/to/image.jpg)
+![Crypto Casino](IMG_20240717_135319.jpg)
 
 ### Why Choose Crypto Casino?
 - **Complete White Label Casino Solution**: Affordable and fully customizable.
